@@ -1,0 +1,26 @@
+{
+  "house": {
+    "rooms": [
+      {
+        "name": "Living Room",
+        "temperature": 30
+      },
+      {
+        "name": "Kitchen",
+        "temperature": 24
+      },
+      {
+        "name": "Bedroom",
+        "temperature": 21
+      },
+      {
+        "name": "Bathroom",
+        "temperature": 26
+      },
+      {
+        "name": "Garage",
+        "temperature": 18.5
+      }
+    ]
+  }
+}
