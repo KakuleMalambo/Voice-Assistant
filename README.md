@@ -1,9 +1,10 @@
+# DESCRIPTION
+The Voice Assistant is an intelligent, web-based assistant that combines real-time voice interaction with smart home control capabilities and internet search functionality. It's a platform where conversational AI meets practical utility, enabling users to get information from the web, control home temperatures, and check weather conditions through natural voice commands. The Voice Assistant simplifies everyday tasks by providing a hands-free interface to digital information and smart home control, all within a seamless web-based system.
+
 # FRONTEND
 <img src="./.github/assets/app-icon.png" alt="Voice Assistant App Icon" width="100" height="100">
 
 # Web Voice Assistant
-
-The Voice Assistant is an intelligent, web-based assistant that combines real-time voice interaction with smart home control capabilities and internet search functionality. It's a platform where conversational AI meets practical utility—enabling users to get information from the web, control home temperatures, and check weather conditions through natural voice commands. The Voice Assistant simplifies everyday tasks by providing a hands-free interface to digital information and smart home control, all within a seamless web-based system.
 
 This is a starter template for [LiveKit Agents](https://docs.livekit.io/agents/overview/) that provides a simple voice interface using the [LiveKit JavaScript SDK](https://github.com/livekit/client-sdk-js).
 
